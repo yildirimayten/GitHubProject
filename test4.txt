@@ -1,1 +1,5 @@
 Test 4 dosyası oluşturuldu.
+<<<<<<< HEAD
+=======
+Deneme 1 2 3
+>>>>>>> 68785db (test 4 eklendi)
